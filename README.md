@@ -1,3 +1,12 @@
+## ⚠️ WARNING: Outdated Documentation ⚠️
+
+Attention users and contributors,
+
+This guide is outdated and may contain obsolete information. Exercise caution when using it. I am working on updates.
+
+Thank you,
+
+
 ## Frontend React application architecture
 
 ### Key concepts and glossary
