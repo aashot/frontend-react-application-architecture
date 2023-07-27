@@ -1,11 +1,10 @@
-## ⚠️ WARNING: Outdated Documentation ⚠️
+## ⚠️ WARNING: Outdated Guide ⚠️
 
 Attention users and contributors,
 
 This guide is outdated and may contain obsolete information. Exercise caution when using it. I am working on updates.
 
-Thank you,
-
+Thank you
 
 ## Frontend React application architecture
 
